@@ -1,0 +1,5 @@
+console.log('Qual fatia pertence ao nome Goku na frase a seguir?')
+const frase = ('Os limites só existem se você os deixar existir (Goku).')
+console.log(frase)
+console.log('A resposta é: 47')
+frase.slice(47)

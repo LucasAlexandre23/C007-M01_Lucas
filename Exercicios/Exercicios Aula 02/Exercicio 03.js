@@ -1,0 +1,4 @@
+  console.log('Vento no Litoral')
+  let musica =
+('De tarde eu quero descansar, chegar até a praia e ver, Se o vento ainda está forte e vai ser bom subir nas pedras sei que faço isso pra esquecer, eu deixo a onda me acertar, e o vento vai levando tudo embora. Agora está tão longe vê, a linha do horizonte me distrai dos nossos planos é que tenho mais saudade, quando olhávamos juntos na mesma direção, aonde está você agora além de aqui dentro de mim? Agimos certo sem querer foi só o tempo que errou, vai ser difícil eu sem você, porque você está comigo o tempo todo,e quando vejo o mar, existe algo que diz que a vida continua e se entregar é uma bobagem, já que você não está aqui, o que posso fazer é cuidar de mim, Quero ser feliz ao menos. Lembra que o plano era ficarmos bem? Ei, olha só o que eu achei cavalos-marinhos, sei que faço isso pra esquecer, eu deixo a onda me acertar e o vento vai levando tudo embora...')
+console.log(musica)

@@ -1,0 +1,13 @@
+let alunoa = prompt('Digite o nome do primeiro aluno: ')
+let notaa = prompt('Digite a nota do primeiro aluno: ')
+let alunob = prompt('Digite o nome do segundo aluno: ')
+let notab = prompt('Digite a nota do segundo aluno: ')
+let alunoc = prompt('Digite o nome do terceiro aluno: ')
+let notac = prompt('Digite a nota do terceiro aluno: ')
+let alunod = prompt('Digite o nome do quarto aluno: ')
+let notad = prompt('Digite a nota do quarto aluno: ')
+
+console.log(alunoa + notaa)
+console.log(alunob + notab)
+console.log(alunoc + notac)
+console.log(alunod + notad)
